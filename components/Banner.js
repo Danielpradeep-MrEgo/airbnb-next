@@ -6,7 +6,7 @@ function Banner() {
 			<Image
 				src="https://links.papareact.com/0fm"
 				layout="fill"
-		alt="banner"
+				alt="banner"
 				objectFit="cover"
 			/>
 
